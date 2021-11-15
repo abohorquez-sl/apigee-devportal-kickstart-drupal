@@ -1,2 +1,5 @@
 notify_on: error_only
 use_modal: false
+name: Apigee Monetization Add Credit
+type: module
+core: 8.x
